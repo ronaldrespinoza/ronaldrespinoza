@@ -1,11 +1,11 @@
-![Header](https://github.com/ronaldrespinoza/ronaldrespinoza/blob/master/img/Banner.png)
+![Header](https://github.com/ronaldrespinoza/ronaldrespinoza/blob/master/img/banner.png)
 
 # Hi, I'm Ron
 
 Hi, I'm Ron - a Computer Science student studying at the University of New Mexico. I like experimenting with new technologies, building small projects and occasionally tinkering with electronics.
 
 ## Tech Stack
-* 💻 C | C++ | C# | Java | Python
+* 💻 C | C++ | C# | Java | Python | VHDL
 * 🛢️ mySQL | T-SQL | MS SQL
 
 [![Ron's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronaldrespinoza)](https://github.com/ronaldrespinoza)
