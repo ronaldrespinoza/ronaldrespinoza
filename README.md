@@ -9,7 +9,7 @@ A Computer Science student studying at the University of New Mexico. I like expe
 * 🛢️ mySQL | T-SQL | MS SQL
 
 
-[![Ron's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronaldrespinoza)](https://github.com/ronaldrespinoza)
+[![Ron's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronaldrespinoza&&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515)](https://github.com/ronaldrespinoza)
 
 <p align=center>
 <b>Let's create something awesome together!</b> <br>
