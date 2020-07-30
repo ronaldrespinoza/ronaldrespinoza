@@ -2,11 +2,12 @@
 
 # Hi, I'm Ron
 
-Hi, I'm Ron - a Computer Science student studying at the University of New Mexico. I like experimenting with new technologies, building small projects and occasionally tinkering with electronics.
+A Computer Science student studying at the University of New Mexico. I like experimenting with new technologies, building small projects and occasionally tinkering with electronics.
 
 ## Tech Stack
-* 💻 C | C++ | C# | Java | Python | VHDL
+* 💻 C | C++ | C# | Java | Java Script | Python | Perl | HTML | VHDL
 * 🛢️ mySQL | T-SQL | MS SQL
+
 
 [![Ron's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronaldrespinoza)](https://github.com/ronaldrespinoza)
 
