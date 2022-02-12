@@ -2,7 +2,7 @@
 
 # Hi, I'm Ron
 
-A Computer Science student studying at the University of New Mexico. I like experimenting with new technologies, building small projects and occasionally tinkering with electronics.
+I am a graduate from New Mexico State University with a Bachelor’s of Science in Electronics and Computer Engineering with an active Comp TIA Security+ certification. I have experience developing, deploying, and supporting software systems for the avionics, civil, defense, and financial industries within Agile and ITIL environments. While in college I worked as a Software Engineer Intern for Bendix King by Honeywell. Upon college graduation I found my way as a software and system support analyst deploying software and systems for wide area networks across the US. I then got my start as a Software Analyst in the public sector through SAIC in support of the (SMC/ AD) to develop, deploy, modernize, and expand the EDIS program and its customers. Currently I am working as a Software Developer with Aegis Aerospace to conduct modeling and simulation activities in support of research studies for utility assessments with AFRL/RDMW.
 
 ## Tech Stack
 * 💻 C | C++ | C# | Java | Java Script | Python | Perl | HTML | VHDL
